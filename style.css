@@ -1,0 +1,588 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 2113px;
+  position: relative;
+  overflow: hidden;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 1080px;
+  height: 0px;
+  position: absolute;
+  left: 180px;
+  top: 130px;
+  transform-origin: 0 0;
+  transform: rotate(-0.053deg) scale(1, 1);
+}
+.ellipse-1 {
+  background: #670c92;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 188px;
+  top: 18px;
+}
+.f-c {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 202px;
+  top: 46px;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  width: 255px;
+  height: 50px;
+  position: absolute;
+  left: 317px;
+  top: 69px;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  width: 255px;
+  height: 50px;
+  position: absolute;
+  left: 592px;
+  top: 69px;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 256px;
+  height: 50px;
+  position: absolute;
+  left: 867px;
+  top: 69px;
+}
+.rectangle-4 {
+  background: #bebebe;
+  width: 296px;
+  height: 296px;
+  position: absolute;
+  left: 827px;
+  top: 253px;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  width: 296px;
+  height: 296px;
+  position: absolute;
+  left: 887px;
+  top: 313px;
+}
+.rectangle-6 {
+  background: #e21515;
+  border-radius: 60px;
+  width: 291px;
+  height: 54px;
+  position: absolute;
+  left: 568px;
+  top: 549px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  width: 295px;
+  height: 41px;
+  position: absolute;
+  left: 277px;
+  top: 461px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 388px;
+  top: 83px;
+}
+.rectangle-72 {
+  background: #d9d9d9;
+  width: 295px;
+  height: 41px;
+  position: absolute;
+  left: 277px;
+  top: 396px;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  width: 295px;
+  height: 41px;
+  position: absolute;
+  left: 277px;
+  top: 331px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 883px;
+  top: 273px;
+}
+.rectangle-26 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 915px;
+  top: 331px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  width: 295px;
+  height: 83px;
+  position: absolute;
+  left: 277px;
+  top: 224px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 1080px;
+  height: 0px;
+  position: absolute;
+  left: 181px;
+  top: 753px;
+}
+.rectangle-11 {
+  border-radius: 35px;
+  width: 155px;
+  height: 202px;
+  position: absolute;
+  left: 508px;
+  top: 954px;
+}
+.rectangle-12 {
+  border-radius: 35px;
+  width: 155px;
+  height: 202px;
+  position: absolute;
+  left: 783px;
+  top: 954px;
+}
+.rectangle-13 {
+  border-radius: 35px;
+  width: 155px;
+  height: 202px;
+  position: absolute;
+  left: 1058px;
+  top: 954px;
+}
+.rectangle-14 {
+  background: #d35ec8;
+  border-radius: 35px;
+  width: 155px;
+  height: 202px;
+  position: absolute;
+  left: 364px;
+  top: 1192px;
+}
+.rectangle-15 {
+  background: #e1eb74;
+  border-radius: 35px;
+  width: 155px;
+  height: 202px;
+  position: absolute;
+  left: 643px;
+  top: 1192px;
+}
+.rectangle-16 {
+  background: #6764fb;
+  border-radius: 35px;
+  width: 155px;
+  height: 202px;
+  position: absolute;
+  left: 922px;
+  top: 1192px;
+}
+.rectangle-18 {
+  background: #c19696;
+  border-radius: 35px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 546px;
+  top: 1101px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 563px;
+  top: 1109px;
+}
+.rectangle-19 {
+  background: #c19696;
+  border-radius: 35px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 821px;
+  top: 1101px;
+}
+.rectangle-20 {
+  background: #c19696;
+  border-radius: 35px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 1096px;
+  top: 1101px;
+}
+.rectangle-21 {
+  background: #c19696;
+  border-radius: 35px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 402px;
+  top: 1340px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 401px;
+  top: 1348px;
+}
+.rectangle-22 {
+  background: #c19696;
+  border-radius: 35px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 681px;
+  top: 1340px;
+}
+.rectangle-23 {
+  background: #c19696;
+  border-radius: 35px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 956px;
+  top: 1340px;
+}
+.rectangle-24 {
+  background: #989898;
+  width: 255px;
+  height: 50px;
+  position: absolute;
+  left: 1005px;
+  top: 9px;
+}
+.div5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1024px;
+  top: 18px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 663px;
+  top: 83px;
+  width: 108px;
+  height: 23px;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 954px;
+  top: 83px;
+}
+.div8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 326px;
+  top: 564px;
+}
+.rectangle-25 {
+  background: #cb1678;
+  border-radius: 35px;
+  width: 295px;
+  height: 50px;
+  position: absolute;
+  left: 573px;
+  top: 802px;
+}
+.div9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 805px;
+}
+.fast-cheap {
+  color: #670c92;
+  text-align: left;
+  font-family: "JacquesFrancoisShadow-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 596px;
+  top: 6px;
+}
+.div10 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 697px;
+  top: 1348px;
+}
+.div11 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 955px;
+  top: 1348px;
+}
+.div12 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 839px;
+  top: 1109px;
+}
+.div13 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1091px;
+  top: 1109px;
+}
+.div14 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 357px;
+  top: 469px;
+}
+.div15 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 343px;
+  top: 408px;
+}
+.rectangle-27 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 1061px;
+  top: 332px;
+}
+.rectangle-28 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 915px;
+  top: 480px;
+}
+.rectangle-29 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 1061px;
+  top: 480px;
+}
+.div16 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 920px;
+  top: 433px;
+}
+.div17 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1068px;
+  top: 433px;
+}
+.div18 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 915px;
+  top: 583px;
+}
+.div19 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1090px;
+  top: 580px;
+}
+.div20 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 342px;
+  top: 339px;
+}
+.div21 {
+  color: #500f0f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 288px;
+  top: 244px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 1080px;
+  height: 0px;
+  position: absolute;
+  left: 180px;
+  top: 1964px;
+}
+.image-1 {
+  width: 191px;
+  height: 51px;
+  position: absolute;
+  left: 465px;
+  top: 1966px;
+}
+.div22 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 208px;
+  top: 1972px;
+}
+.image-2 {
+  width: 329px;
+  height: 51px;
+  position: absolute;
+  left: 897px;
+  top: 2019px;
+}
+.rectangle-30 {
+  border-radius: 35px;
+  width: 155px;
+  height: 202px;
+  position: absolute;
+  left: 233px;
+  top: 954px;
+}
+.rectangle-31 {
+  background: #c19696;
+  border-radius: 35px;
+  width: 79px;
+  height: 33px;
+  position: absolute;
+  left: 271px;
+  top: 1101px;
+}
+.div23 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 279px;
+  top: 1108px;
+}
+._7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 194px;
+  top: 2038px;
+}
+.div24 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 848px;
+  top: 1972px;
+}
